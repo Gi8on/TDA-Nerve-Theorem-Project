@@ -1,2 +1,2 @@
 # TDA-Nerve-Theorem-Project
-My final project for Topoligal Data analysis class, finished in 2025.
+My final project for Topological Data analysis class, finished in 2025.
